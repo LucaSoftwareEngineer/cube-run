@@ -166,3 +166,160 @@ Received Import Request.
   path: Assets/New Terrain.asset
   artifactKey: Guid(dff6ab40bdbad5b4d984af2712b673e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/New Terrain.asset using Guid(dff6ab40bdbad5b4d984af2712b673e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c0efb7ee11850759c876cc67bfdfdd9') in 0.073174 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006823 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Workspace\unity_workspace\cube-run\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Workspace\unity_workspace\cube-run\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.157 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1158ms)
+		BeginReloadAssembly (174ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (43ms)
+		EndReloadAssembly (857ms)
+			LoadAssemblies (127ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (291ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (374ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (19ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (78ms)
+				ProcessInitializeOnLoadAttributes (231ms)
+				ProcessInitializeOnLoadMethodAttributes (28ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3464 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 81 unused Assets / (4.6 MB). Loaded Objects now: 3881.
+Memory consumption went from 140.2 MB to 135.6 MB.
+Total: 4.695100 ms (FindLiveObjects: 0.256800 ms CreateObjectMapping: 0.152300 ms MarkObjects: 3.067100 ms  DeleteObjects: 1.217900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 259.770127 seconds.
+  path: Assets/NatureStarterKit
+  artifactKey: Guid(a65987694eceb9d4d85d3c95b2b6f830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureStarterKit using Guid(a65987694eceb9d4d85d3c95b2b6f830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9136e08066063e182440c7b53a14f3bc') in 0.016777 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.591489 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_groundgrass01ground01Nb2e386cdaf7e7ee2.terrainlayer
+  artifactKey: Guid(cc9c0b07bde88fa4b96fbf916b39f0cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_groundgrass01ground01Nb2e386cdaf7e7ee2.terrainlayer using Guid(cc9c0b07bde88fa4b96fbf916b39f0cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfc66a7494b9ab7761dc73f434af125c') in 0.079798 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.305405 seconds.
+  path: Assets/NatureStarterKit/Textures/groundgrass01.tga
+  artifactKey: Guid(cc7345aa189037b4eadd014712552d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureStarterKit/Textures/groundgrass01.tga using Guid(cc7345aa189037b4eadd014712552d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59a0ef44630f14419a5c3fd1e9b5bf06') in 0.046838 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 284.261571 seconds.
+  path: Assets/NatureStarterKit/Materials
+  artifactKey: Guid(d97588e99f75f4241866b45c32796db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureStarterKit/Materials using Guid(d97588e99f75f4241866b45c32796db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd81aa8a60ccd8ac2f3e3166a0317a38d') in 0.012072 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.079257 seconds.
+  path: Assets/NatureStarterKit/Materials/bark01.mat
+  artifactKey: Guid(48820d5ae13cbb647bc587112dd912e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureStarterKit/Materials/bark01.mat using Guid(48820d5ae13cbb647bc587112dd912e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d14aeddb21fbbb7fd7260c3fb553d55') in 0.463424 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/NatureStarterKit/Materials/rock01N.mat
+  artifactKey: Guid(14c72627473c8bc45a181523f518e63a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureStarterKit/Materials/rock01N.mat using Guid(14c72627473c8bc45a181523f518e63a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afd602add8625381015143801ebd95c2') in 0.371982 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/NatureStarterKit/Materials/grass.mat
+  artifactKey: Guid(90187cc5181e89f45b8c0b36a92caebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureStarterKit/Materials/grass.mat using Guid(90187cc5181e89f45b8c0b36a92caebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c39fdd59a8f6c7f058cf515df63b73d9') in 0.355827 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/NatureStarterKit/Materials/rock02N.mat
+  artifactKey: Guid(58ce02fe89be2fe4f874ebb08a8dec19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureStarterKit/Materials/rock02N.mat using Guid(58ce02fe89be2fe4f874ebb08a8dec19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '773157375a1a2c4af7122c6c1e2a65d9') in 0.028295 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 49.962088 seconds.
+  path: Assets/NatureStarterKit/Models/New Terrain.asset
+  artifactKey: Guid(61abdd755e4ed1b4692e805247448163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureStarterKit/Models/New Terrain.asset using Guid(61abdd755e4ed1b4692e805247448163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a7cee18f5082a047523cf4b31918d31') in 0.042213 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/NatureStarterKit/Models/rock04.fbx
+  artifactKey: Guid(0d390c947ceb79940aa697ab6e3a3542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureStarterKit/Models/rock04.fbx using Guid(0d390c947ceb79940aa697ab6e3a3542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1f94c088c5c9ba216fa99195e7ae1b2') in 0.105414 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/NatureStarterKit/Models/rock03.fbx
+  artifactKey: Guid(901490205d4d95e4d8fd461462b7c61a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureStarterKit/Models/rock03.fbx using Guid(901490205d4d95e4d8fd461462b7c61a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44221551b7194b1a5c55f955d1ae79a3') in 0.058350 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.677921 seconds.
+  path: Assets/NatureStarterKit/Textures/bark01N.tga
+  artifactKey: Guid(4619b222607aa1847acd1c33e770f273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureStarterKit/Textures/bark01N.tga using Guid(4619b222607aa1847acd1c33e770f273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8dfb1a1238d95120fc1a17fcd72fa26') in 0.034124 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/NatureStarterKit/Textures/cloud01.tga
+  artifactKey: Guid(7ed69cebbe46d9e489ba21ddad36b9ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureStarterKit/Textures/cloud01.tga using Guid(7ed69cebbe46d9e489ba21ddad36b9ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97c8e7e9d8e6561a774bbee3ee3dc5c1') in 0.028748 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/NatureStarterKit/Textures/sky.tga
+  artifactKey: Guid(9dc3b8bc96a344742b6a9094da5679b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureStarterKit/Textures/sky.tga using Guid(9dc3b8bc96a344742b6a9094da5679b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8b858ae61012a43acb09c15676fd20a') in 0.045758 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/NatureStarterKit/Textures/rock02N.tga
+  artifactKey: Guid(24f5e2510162771459346d39cdc8e932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureStarterKit/Textures/rock02N.tga using Guid(24f5e2510162771459346d39cdc8e932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5e7e661daaa91e16dae90ceabbb79d5') in 0.032129 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/NatureStarterKit/Textures/rock02AO.tga
+  artifactKey: Guid(3d9fc7ccc0311914f9ef2e40b600df42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NatureStarterKit/Textures/rock02AO.tga using Guid(3d9fc7ccc0311914f9ef2e40b600df42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c066943d45ae4d98ff9c394caa1a7c2') in 0.028579 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
