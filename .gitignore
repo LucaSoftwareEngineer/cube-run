@@ -1,0 +1,31 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Obj]/
+/[Build]/
+/[Builds]/
+/[Logs]/
+/[UserSettings]/
+
+# File generati da Visual Studio / VS Code
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# Crash reports
+sysinfo.txt
+
+# Asset importati che possono essere rigenerati
+/[Aa]ssets/AssetStoreTools*
+
+# Escludi file di build specifici
+*.apk
+*.unitypackage
